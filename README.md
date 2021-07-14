@@ -1,16 +1,20 @@
-## Hi my name is Lorre Huggan
+## 🧑🏾 Hi my name is Lorre Huggan
 
-Im a Front-end web developer based in london,
+Im a self taught Front-end web developer based in london.
+I focused on creating high end apps, web apps, web sites, & more using
+modern technologies such as Sass & React js.
 
-## Technology
+## 💾 Technology
 
-HTML, CSS, JavaScript, React, Adobe Photoshop, Figma,
+HTML, CSS, JavaScript, React, Adobe Photoshop, Figma, Davinci Resolve,
 Git, GitHub, Linux, Firebase, NPM, Terminal.
 
-## Contact
+## 📞 How to reach me
 
-Feel free to contact me for collaborations or work opportunity.
+Feel free to contact me for collaborations or work opportunities.
 lorre.huggan@protonmail.com
+
+🌱 I’m currently learning ... Shopify Theme Development
 
 <!--
 **lorre-huggan/lorre-huggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
