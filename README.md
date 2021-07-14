@@ -1,8 +1,9 @@
-## 🧑🏾 Hi my name is Lorre Huggan
+## 😀 Hi my name is Lorre Huggan
 
-Im a self taught Front-end web developer based in london.
+Im a self taught **Front-end web developer** based in London.
 I focused on creating high end apps, web apps, web sites, & more using
-modern technologies such as Sass & React js.
+modern technologies such as **Sass & React js.** My strength is in design but
+I also have a passion for the more logical sides web development.
 
 ## 💾 Technology
 
