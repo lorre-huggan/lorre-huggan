@@ -7,15 +7,13 @@ I also have a passion for the more logical sides web development.
 
 ## 💾 Technology
 
-HTML, CSS, JavaScript, React, Adobe Photoshop, Figma, Davinci Resolve,
+HTML, CSS, JavaScript, React, NextJs, Styled-Components, Sass, Adobe Photoshop, Figma, Davinci Resolve,
 Git, GitHub, Linux, Firebase, NPM, Terminal.
 
-## 📞 How to reach me
+## 📫 How to reach me
 
 Feel free to contact me for collaborations or work opportunities.
 lorre.huggan@protonmail.com
-
-🌱 I’m currently learning ... Shopify Theme Development
 
 <!--
 **lorre-huggan/lorre-huggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
