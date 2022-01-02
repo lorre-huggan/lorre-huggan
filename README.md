@@ -9,14 +9,9 @@ Im a self taught **Front-end web developer** based in London.
 
 ## 💾 Technologies I Use
 
-HTML, CSS, JavaScript,
-React, NextJs,
-Node, Firebase, NPM,
-Styled-Components, Sass,
-Adobe Photoshop, Figma,
-Davinci Resolve,
-Git, GitHub,
-Terminal.Linux,
+---
+
+<img src="https://cdn.svgporn.com/logos/html-5.svg" width="40"> <img src="https://cdn.svgporn.com/logos/css-3.svg" width="40"> <img src='https://cdn.svgporn.com/logos/sass.svg' width='68'> <img src="https://cdn.svgporn.com/logos/javascript.svg" width="53"> <img src='https://cdn.svgporn.com/logos/react.svg' width=58><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width='55'> <img src='https://cdn.svgporn.com/logos/nodejs-icon.svg' width='55'> <img src='https://cdn.svgporn.com/logos/firebase.svg' width='45'> <img src='https://cdn.svgporn.com/logos/git-icon.svg' width='60'> <img src='https://cdn.svgporn.com/logos/terminal.svg' width='68'> <img src='https://cdn.svgporn.com/logos/linux-tux.svg' width='60'>
 
 #### [LorreHuggan.com]('https://www.lorrehuggan.com/')
 
