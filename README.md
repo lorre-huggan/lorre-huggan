@@ -1,19 +1,24 @@
 ## 😀 Hi my name is Lorre Huggan
 
 Im a self taught **Front-end web developer** based in London.
-I focused on creating high end apps, web apps, web sites, & more using
-modern technologies such as **Sass, Styled-Components & React js.** My strength is in design but
-I also have a passion for the more logical sides web development.
 
-## 💾 Technology
+- 🔭 I’m currently working on a bunch of little things.
+- 🌱 I’m currently learning Backend web development.
+- 📫 How to reach me: lorre.huggan@protonmail.com.
+- ⚡ Fun fact: I love making music check me out [here]('https://www.youtube.com/watch?v=jryloFZh-L4').
 
-HTML, CSS, JavaScript, React, NextJs, Styled-Components, Sass, Adobe Photoshop, Figma, Davinci Resolve,
-Git, GitHub, Linux, Firebase, NPM, Terminal.
+## 💾 Technologies I Use
 
-## 📫 How to reach me
+HTML, CSS, JavaScript,
+React, NextJs,
+Node, Firebase, NPM,
+Styled-Components, Sass,
+Adobe Photoshop, Figma,
+Davinci Resolve,
+Git, GitHub,
+Terminal.Linux,
 
-Feel free to contact me for collaborations or work opportunities.
-lorre.huggan@protonmail.com
+#### [LorreHuggan.com]('https://www.lorrehuggan.com/')
 
 <!--
 **lorre-huggan/lorre-huggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
